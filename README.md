@@ -4,7 +4,7 @@
 
 #### About Me
 
-   A Deep Dive Java bootcamp student at [CNM](cnm.edu)
+   A Deep Dive Java bootcamp student at [CNM](https://cnm.edu)
 
 
 
