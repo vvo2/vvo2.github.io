@@ -1,12 +1,9 @@
-<div style="text-align: right">
 ## Vuong Vo's GitHub Profolio
 
 ###  _under Construction_
 
 #### About Me
 A Deep Dive Java bootcamp student at [CNM](https://cnm.edu)
-
-
 
 
 
@@ -17,4 +14,3 @@ Defining Global stand for digital wardrobe to save time and fixes various issue 
 
 
 [Vo's Professional Developmemt](pro_dev.md)
-</div>
