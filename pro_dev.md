@@ -3,9 +3,9 @@
 
 ### Career Buddy: Deron Haniel
 
-[LinkedIn](https://www.linkedin.com/in/vovo2/)   
-[Deep Dive Vo](deepdivevo.com)   
+[LinkedIn](https://www.linkedin.com/in/vovo2/)    
 [GitHub](https://vvo2.github.io/)    
+[DeepDiveVo](https://deepdivevo.com)
 
 ### Quantitative Accomplishments
 
