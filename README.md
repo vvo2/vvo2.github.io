@@ -1,17 +1,18 @@
 ## Vuong Vo's GitHub Profolio
 
-### _under Construction_
+###  _under Construction_
 
 #### About Me
 
-   A Deep Dive Java bootcamp student at [CNM](https://cnm.edu)
+    A Deep Dive Java bootcamp student at [CNM](https://cnm.edu)
 
 
 
 
 ### Projects
 
-* Wardrobe app
-    * This app allow user to take a pic of their cloth and turn into a digital wardrobe.
+    World of Wardrobe (Android app)
+    Defining Global stand for digital wardrobe to save time and fixes various issue from "I can't decide on what to wear!" problem to "I forgot I had this."
 
-[Go to Page 2](page2.md)
+
+[Vo's Professional Developmemt](pro_dev.md)
