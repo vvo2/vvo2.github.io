@@ -32,7 +32,7 @@ My name is Vuong Vo, I'm a future software developer(hopefully), with engineerin
 | Networking | Ideas for activities | Shows and Events |
 
 ### Elevator Pitch
-Learning trade skills and other useful knowledge was alternative around an engineering degree. Then I put the strategy I learned in mental health to improve my learning capability. I want to apply coding toward my various education, technical, and engineering background to innovate products.
+Learning trade skills and other useful knowledge was my alternative around an engineering degree. Then I put the strategy I learned in mental health to improve my learning capability. I want to apply coding toward my various education, technical, and engineering background to innovate products.
 
 Weekly Reflections:    
 First week seems like the longest week, Thursday came by and Donny quietly drop out leaving 7 students remaining.
