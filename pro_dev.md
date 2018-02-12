@@ -5,7 +5,7 @@
 
 [LinkedIn](https://www.linkedin.com/in/vovo2/)    
 [GitHub](https://vvo2.github.io/)    
-[DeepDiveVo](https://deepdivevo.com)
+[DeepDiveVo](https://deepdivevo.com)    
 [resume](res_VO.pdf)
 
 ### Quantitative Accomplishments
