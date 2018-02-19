@@ -6,7 +6,7 @@
 [StackOverFlow](https://stackexchange.com/users/12969571/vo-vo)    
 [LinkedIn](https://www.linkedin.com/in/vovo2/)    
 [GitHub](https://vvo2.github.io/)    
-[DeepDiveVo](https://deepdivevo.com)
+[DeepDiveVo](https://deepdivevo.com)    
 [Weekly reflections](weekly.md)
 
 ### Worth Questions
