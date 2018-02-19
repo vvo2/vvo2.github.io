@@ -20,7 +20,7 @@ I can start of with simple almost free apps, then I don't mind starting around 4
 ### Organization: non-profit & profitable
 [JGO](http://www.java-gaming.org/)    **What is this?**  The largest non-profit java game coding online-community.
 **Who cares?**  freelancer and individual who wants to show and share or collaborate on the project.
-**Why does it matter?**  working on a project on free time to keep skill sharp and help each other makes better codes. 
+**Why does it matter?**  working on a project on free time to keep skill sharp and help each other makes better codes.    
 [IGDA](https://www.igda.org/)    **What is this?**  This is a profitable international gaming organization.
 **Who cares?**  For game developers to connect individuals and organizations.
 **Why does it matter?**  Game development can improve in a global scale.
