@@ -2,9 +2,9 @@
 
 ### Career Buddy: Donny Stout
 
-[Resume](vovo_resume_v2.0.pdf)    [LinkedIn](https://www.linkedin.com/in/vovo2/)    
-[StackOverFlow](https://stackexchange.com/users/12969571/vo-vo)    [GitHub](https://vvo2.github.io/)   
-[Weekly reflections](weekly.md)    [DeepDiveVo](https://deepdivevo.com) 
+[Resume](vovo_resume_v2.0.pdf)        [LinkedIn](https://www.linkedin.com/in/vovo2/)    
+[StackOverFlow](https://stackexchange.com/users/12969571/vo-vo)        [GitHub](https://vvo2.github.io/)   
+[Weekly reflections](weekly.md)        [DeepDiveVo](https://deepdivevo.com) 
 
 ### Worth Questions
 1.  The internal factor is my level of knowledge & skill in Java will set my worth.  The external factor is the city of my career will limit my desire salary.
