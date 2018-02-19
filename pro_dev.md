@@ -18,14 +18,14 @@
 I can start of with simple almost free apps, then I don't mind starting around 40k I think 60k is fine for a few year experience level.  I will not live in state with high living cost like Cali and New York, I prefer to bring money back into smaller city like Albuquerque.
 
 ### Organization: non-profit & profitable
-[Java-Gaming.Org](http://www.java-gaming.org/)    
-**What is this?**  The largest non-profit java game coding online-community.    
-**Who cares?**  freelancer and individual who wants to show and share or collaborate on the project.    
-**Why does it matter?**  working on a project on free time to keep skill sharp and help each other makes better codes.    
-[International Game Developer Association](https://www.igda.org/)    
-**What is this?**  This is a profitable international gaming organization.    
-**Who cares?**  For game developers to connect individuals and organizations.    
-**Why does it matter?**  Game development can improve in a global scale.
+[Java-Gaming.Org](http://www.java-gaming.org/)   
+**What is this?**  The largest non-profit java game coding online-community.   
+**Who cares?**  freelancer and individual who wants to show and share or collaborate on the project.   
+**Why does it matter?**  working on a project on free time to keep skill sharp and help each other makes better codes.   
+[International Game Developer Association](https://www.igda.org/)   
+**What is this?**  This is a profitable international gaming organization.   
+**Who cares?**  For game developers to connect individuals and organizations.   
+**Why does it matter?**  Game development can improve in a global scale.   
 
 ### after bootcamp:
 * direct: talk about improvements if software meetups, write a simple software for a local small business
