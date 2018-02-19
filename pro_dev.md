@@ -2,12 +2,9 @@
 
 ### Career Buddy: Donny Stout
 
-[Resume](vovo_resume_v2.0.pdf)    
-[StackOverFlow](https://stackexchange.com/users/12969571/vo-vo)    
-[LinkedIn](https://www.linkedin.com/in/vovo2/)    
-[GitHub](https://vvo2.github.io/)    
-[DeepDiveVo](https://deepdivevo.com)    
-[Weekly reflections](weekly.md)
+[Resume](vovo_resume_v2.0.pdf)    [LinkedIn](https://www.linkedin.com/in/vovo2/)    
+[StackOverFlow](https://stackexchange.com/users/12969571/vo-vo)    [GitHub](https://vvo2.github.io/)   
+[Weekly reflections](weekly.md)    [DeepDiveVo](https://deepdivevo.com) 
 
 ### Worth Questions
 1.  The internal factor is my level of knowledge & skill in Java will set my worth.  The external factor is the city of my career will limit my desire salary.
@@ -17,12 +14,12 @@
 ### Salary Expectation
 I can start of with simple almost free apps, then I don't mind starting around 40k I think 60k is fine for a few year experience level.  I will not live in state with high living cost like Cali and New York, I prefer to bring money back into smaller city like Albuquerque.
 
-# Organization: non-profit & profitable
-[JGO](http://www.java-gaming.org/)
+### Organization: non-profit & profitable
+[JGO](http://www.java-gaming.org/)  
 **What is this?**  The largest non-profit java game coding online-community.
 **Who cares?**  freelancer and individual who wants to show and share or collaborate on the project.
 **Why does it matter?**  working on a project on free time to keep skill sharp and help each other makes better codes. 
-[IGDA](https://www.igda.org/)
+[IGDA](https://www.igda.org/)  
 **What is this?**  This is a profitable international gaming organization.
 **Who cares?**  For game developers to connect individuals and organizations.
 **Why does it matter?**  Game development can improve in a global scale.
