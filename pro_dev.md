@@ -3,7 +3,7 @@
 ### Career Buddy: Donny Stout
 
 [Resume](vovo_resume_v2.0.pdf)    
-[StackOverFlow](https://stackexchange.com/users/12969571/vo-vo)    
+[StackOverFlow Developer Story](https://stackoverflow.com/story/vovo)    
 [LinkedIn](https://www.linkedin.com/in/vovo2/)    
 [GitHub](https://vvo2.github.io/)    
 [DeepDiveVo](https://deepdivevo.com)    
