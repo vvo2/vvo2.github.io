@@ -7,10 +7,6 @@
 | [Resume v2.0](vovo_resume_v2.0.pdf) | [DeepDiveVo](https://deepdivevo.com) |
 | [LinkedIn](https://www.linkedin.com/in/vovo2/) | [GitHub](https://vvo2.github.io/) |
 | [Weekly reflections](weekly.md) | [StackOverFlow Developer Story](https://stackoverflow.com/story/vovo) |
-  
-
-
-
 
 ### Worth Questions
 1.  The internal factor is my level of knowledge & skill in Java will set my worth.  The external factor is the city of my career will limit my desire salary.
@@ -55,7 +51,3 @@ Learning trade skills and other useful knowledge was my alternative around an en
 | --------- |:---------:| --------:|
 | Time Saving Products | Coding Skills | Innovated products |
 | Networking | Ideas for activities | Shows and Events |
-
-
-
-
