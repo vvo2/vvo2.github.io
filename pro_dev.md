@@ -28,7 +28,7 @@ I can start of with simple almost free apps, then I don't mind starting around 4
 
 ### after bootcamp:
 * direct: talk about improvements if software meetups, write a simple software for a local small business
-* indirect: collaberate with online community software, leave business card here and there and at career fair events.
+* indirect: collaberate with online community software, leave business card here and there and at career fair events. Get into Christian technology and see what need to be done.
 
 
 ### Elevator Pitch (updated 2-18-18)
