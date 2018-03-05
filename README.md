@@ -1,16 +1,14 @@
 ## Vuong Vo's GitHub Profolio
 
-###  _under Construction_
+### Diving deep at Deep Dive Java/Android/Salefore bootcamp
 
 #### About Me
-A Deep Dive Java bootcamp student at [CNM](https://cnm.edu)
-
+A student at [CNM](https://cnm.edu)
 
 
 ### Projects
 
 World of Wardrobe (Android app)
-Defining Global stand for digital wardrobe to save time and fixes various issue from "I can't decide on what to wear!" problem to "I forgot I had this."
-
+Pro Dev Me (capstone team project)
 
 [Vo's Professional Developmemt](pro_dev.md)
