@@ -4,7 +4,7 @@
 
 | links | Profile |
 |---------:|:--------|
-| [Resume v2.0](vovo_resume_v2.0.pdf) | [DeepDiveVo](https://deepdivevo.com) |
+| [Resume v3](vovo_resume_v3.pdf) | [DeepDiveVo](https://deepdivevo.com) |
 | [LinkedIn](https://www.linkedin.com/in/vovo2/) | [GitHub](https://vvo2.github.io/) |
 | [Weekly reflections](weekly.md) | [StackOverFlow Developer Story](https://stackoverflow.com/story/vovo) |
 
